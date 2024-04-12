@@ -57,9 +57,10 @@ You can install these dependencies using `pip`:
 ```bash
 pip install -r requirements.txt
 
-## Link to the Medium Blog
+**## Link to the Medium Blog**
+
 For an in-depth overview of the findings and insights obtained by the analysis, please refer to the accompanying blog post here. Blog Post - https://medium.com/@justinesylivera/unlocking-the-secrets-of-seattle-a-data-driven-exploration-of-airbnb-trends-a9ae6b275ccc
 
-Acknowledgement
+## Acknowledgement
 The dataset used in this project is sourced from the Seattle Airbnb Data, and is publicly available on Kaggle. The blog was written using references from ChatGPT AI platform.
 
