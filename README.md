@@ -51,10 +51,13 @@ The analyses in this project are carried out using the following dependencies:
 - matplotlib
 - seaborn
 - Jupyter Notebook
+You can install these dependencies using `pip`:
+```bash
+pip install -r requirements.txt
 
 The file Project_1_Airbnb_Seattle.ipynb is a Jupyter Notebook containing the code, questions, and visualizations used for the analysis of the Seattle Airbnb dataset
 
-** ## Link to the Medium Blog**
+## Link to the Medium Blog
 
 For an in-depth overview of the findings and insights obtained by the analysis, please refer to the accompanying blog post here. Blog Post - https://medium.com/@justinesylivera/unlocking-the-secrets-of-seattle-a-data-driven-exploration-of-airbnb-trends-a9ae6b275ccc
 
