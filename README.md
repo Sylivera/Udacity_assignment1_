@@ -40,7 +40,7 @@ To get started with this project:
     ```bash
     cd Udacity_assignment1_
     ```
-The file Project_1_Airbnb_Seattle.ipynb is a Jupyter Notebook containing the code, questions, and visualizations used for the analysis of the Seattle Airbnb dataset
+
 
 ## Dependencies
 
@@ -56,6 +56,8 @@ The analyses in this project are carried out using the following dependencies:
 You can install these dependencies using `pip`:
 ```bash
 pip install -r requirements.txt
+
+The file Project_1_Airbnb_Seattle.ipynb is a Jupyter Notebook containing the code, questions, and visualizations used for the analysis of the Seattle Airbnb dataset
 
 ** ## Link to the Medium Blog**
 
