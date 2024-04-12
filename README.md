@@ -41,7 +41,6 @@ To get started with this project:
     cd Udacity_assignment1_
     ```
 
-
 ## Dependencies
 
 The analyses in this project are carried out using the following dependencies:
@@ -52,10 +51,6 @@ The analyses in this project are carried out using the following dependencies:
 - matplotlib
 - seaborn
 - Jupyter Notebook
-
-You can install these dependencies using `pip`:
-```bash
-pip install -r requirements.txt
 
 The file Project_1_Airbnb_Seattle.ipynb is a Jupyter Notebook containing the code, questions, and visualizations used for the analysis of the Seattle Airbnb dataset
 
