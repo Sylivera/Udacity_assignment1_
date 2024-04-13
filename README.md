@@ -26,6 +26,7 @@ The analyses are carried out using data science tools and libraries such as Pyth
 ## Data
 
 The data used in this project comes from publicly available Airbnb listings for Seattle. Please note that the data may contain personal information that must be handled with care and used responsibly.
+Link to data - https://insideairbnb.com/get-the-data/
 
 ## Getting Started
 
@@ -59,5 +60,5 @@ The file Project_1_Airbnb_Seattle.ipynb is a Jupyter Notebook containing the cod
 For an in-depth overview of the findings and insights obtained by the analysis, please refer to the accompanying blog post here. Blog Post - https://medium.com/@justinesylivera/unlocking-the-secrets-of-seattle-a-data-driven-exploration-of-airbnb-trends-a9ae6b275ccc
 
 ## Acknowledgement
-The dataset used in this project is sourced from the Seattle Airbnb Data, and is publicly available on Kaggle. The blog was written using references from ChatGPT AI platform.
+The dataset used in this project is sourced from the Seattle Airbnb Data, and is publicly available on https://insideairbnb.com/get-the-data/. The blog was written using references from ChatGPT AI platform.
 
