@@ -6,11 +6,9 @@ Welcome to the Airbnb Seattle Data Analysis project! This repository contains sc
 
 - [Project Overview](#project-overview)
 - [Data](#data)
-- [Analyses](#analyses)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Link to the Medium Blog](#Link-to-the-Medium-Blog)
-- [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
 ## Project Overview
